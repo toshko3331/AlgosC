@@ -16,4 +16,7 @@ Algorithms to be Implemented
 
 Implemented Algorithms
 ------
-Reference resource for common algorithms: https://guide.freecodecamp.org/algorithms/sorting-algorithms/
+
+Reference Resources
+------
+https://guide.freecodecamp.org/algorithms/sorting-algorithms/
