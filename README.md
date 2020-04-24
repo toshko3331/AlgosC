@@ -15,5 +15,4 @@ Algorithms yet to be implemented
 ------
 Implemented Algorithms
 ------
-------
 Refrence resource for common algorithms: https://guide.freecodecamp.org/algorithms/sorting-algorithms/
